@@ -20,10 +20,11 @@ El listado de requerimientos, y diagrama de clases (UML) se encuentran en la car
 ## Cómo Ejecutar el Proyecto
 
 Sigue estos pasos para ejecutar el sistema de gestión de inventario:
-   ```bash
+   
 
  1. Navega a la ruta del entorno virtual:
- 
+
+ ```bash
    cd inventario/entorno_virtual
    ```
 
