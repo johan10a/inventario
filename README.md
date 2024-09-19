@@ -29,9 +29,9 @@ Sigue estos pasos para ejecutar el sistema de gestión de inventario:
    ```
 
 2. Ejecuta el archivo principal:
-
+```bash
 python main.py
-
+```
 ## Requisitos
 
 Versión de Python: 3.12.5
